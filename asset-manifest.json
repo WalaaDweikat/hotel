@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hotel/static/css/main.90b03552.chunk.css",
+    "main.js": "/hotel/static/js/main.eb3c58f6.chunk.js",
+    "main.js.map": "/hotel/static/js/main.eb3c58f6.chunk.js.map",
+    "runtime-main.js": "/hotel/static/js/runtime-main.664aa11c.js",
+    "runtime-main.js.map": "/hotel/static/js/runtime-main.664aa11c.js.map",
+    "static/js/2.b1a6e03d.chunk.js": "/hotel/static/js/2.b1a6e03d.chunk.js",
+    "static/js/2.b1a6e03d.chunk.js.map": "/hotel/static/js/2.b1a6e03d.chunk.js.map",
+    "static/js/3.f0000711.chunk.js": "/hotel/static/js/3.f0000711.chunk.js",
+    "static/js/3.f0000711.chunk.js.map": "/hotel/static/js/3.f0000711.chunk.js.map",
+    "index.html": "/hotel/index.html",
+    "static/css/main.90b03552.chunk.css.map": "/hotel/static/css/main.90b03552.chunk.css.map",
+    "static/js/2.b1a6e03d.chunk.js.LICENSE.txt": "/hotel/static/js/2.b1a6e03d.chunk.js.LICENSE.txt",
+    "static/media/rooms.css": "/hotel/static/media/apartment-bed-bedroom-chair-271618 1.ad22fafb.png",
+    "static/media/Home.css": "/hotel/static/media/homePackground.1e638963.png",
+    "static/media/facilities.css": "/hotel/static/media/palm-trees-at-night-258154 1.31c9b34b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.664aa11c.js",
+    "static/js/2.b1a6e03d.chunk.js",
+    "static/css/main.90b03552.chunk.css",
+    "static/js/main.eb3c58f6.chunk.js"
+  ]
+}
