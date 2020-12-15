@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
+
+.title{
+   
+    display: flex;
+    flex-direction: column;
+
+     
+}
+
+.welcome{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 2.26vw;
+    color: white;
+}
+.lux{
+    position: relative;
+    display: block;
+    margin-top:-5.5%;
+    font-family: 'EB Garamond', serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 6.78vw;
+    letter-spacing: 0.07em;
+    color: #FFFFFF;
+    width: fit-content;
+}
+.ho{
+    position: relative;
+    display: block;
+    top: -1.28vw;
+    height: fit-content;
+    width: fit-content;
+    font-family: 'EB Garamond', serif;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 3vw;
+    letter-spacing: 0.3em;
+    color: #FFFFFF;
+}
+.book{
+    position: relative;
+    display: block;
+    top: -1.28vw;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1vw;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+    height: fit-content;
+    width: fit-content;
+}

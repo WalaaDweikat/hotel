@@ -1,0 +1,51 @@
+@import url("https://use.typekit.net/rvd5ebs.css");
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+.Testimonials{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: fit-content;
+}
+
+.Testimonials h1{
+    font-family: adobe-garamond-pro, serif;
+    font-weight: 700;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 2.7vw;
+    letter-spacing: 0.02em;
+    color: #14274A;
+   
+}
+
+.Testimonials p{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size:1.51vw;
+    line-height:3vw;
+    color: #14274A;
+    margin-top: -0.7vw;
+}
+.Testimonials span{
+    display: block;
+    font-size:1.13vw;
+    text-align: center;
+}
+.Testimonials button{
+    margin-top: -15px;
+    background:#ddae57;
+    border: #ddae57;
+    color: white;
+    font-size:1.5vw;
+    width: 2.26vw;
+    height:2.26vw;
+    padding-top:-0.3vw;
+    border-radius: 3px;
+    margin-bottom: 100%;
+}
+.space{
+    width: 3px;
+}

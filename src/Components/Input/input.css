@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
+.input{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-bottom: 5%;
+}
+.input label{
+    font-family: 'Montserrat', sans-serif;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.1vw;
+    line-height: 29px;
+    color: #14274A;
+}
+.input input{
+    background: #FFFFFF;
+    border: 2px solid rgba(20, 39, 74, 0.5);
+    box-sizing: border-box;
+    width: 25vw;
+    height: 2.7vw;   
+     
+}

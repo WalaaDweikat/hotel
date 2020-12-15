@@ -1,0 +1,41 @@
+.rc{
+    border: 2px solid #14274A;
+    box-sizing: border-box;
+    border-radius: 0px 0px 15px 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-bottom: 60px;
+    width:fit-content;
+}
+.rcContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 50px;
+    
+}
+
+.rcContainer p{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 2.1vw;
+    line-height: 59px;
+    text-align: center;
+    margin-top:-7.05vw;
+    background-color: white;
+    width: 70vw;
+    height: 7vw;
+    background: #14274A;
+    color: white;
+    line-height: 6.5vw;
+    letter-spacing: 5px;
+
+}
+.rcContainer img{
+    width: 70vw;
+    height: 45vw;
+}

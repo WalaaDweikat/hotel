@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+@import url("https://use.typekit.net/rvd5ebs.css");
+
+
+.backgroundFacilities{
+    
+    background-image: url("../../images/palm-trees-at-night-258154\ 1.png");
+    background-size: cover;
+    width: 98.9vw;
+    height: 49.6vw;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.Wewant{
+
+    width: 70vw;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.2vw;
+    line-height: 1.5vw;
+    text-align: center;
+    color: #14274A;
+    margin-bottom: 45px;
+}
+.Wewant span{
+ font-family: 'adobe-garamond-pro', serif;
+ font-style: normal;
+ font-weight: bold;
+ font-size: 3.5vw;
+ line-height: 72px;
+ letter-spacing: 0.05em;
+}
+
+@media only screen and (max-width: 1000px) {
+    .backgroundFacilities{
+        background-size: contain;
+        width: 100vw;
+      
+    }
+   }
+
+  
+
+   @media only screen and (min-width: 1390px) {
+    .backgroundFacilities{
+    
+        width: 100vw;
+       
+      
+    }
+   }

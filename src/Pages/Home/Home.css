@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+.homeContainer{
+    
+    position: absolute;
+    top:0;
+    left: 0;
+    z-index: -1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    width: fit-content;
+}
+
+.p1{
+    width: fit-content;
+    margin-top:15vw;
+    margin-left:15%;
+}
+
+.p2{
+    margin-top: 2.26vw;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+}
+.backgroundHome{
+    
+    background-image: url("../../images/homePackground.png");
+    background-size: cover;
+    width: 98.8vw;
+    height: 49.6vw;
+    display: flex;
+    flex-direction: row;
+    
+}
+.btnScroll{
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    height: fit-content;
+    margin-top: 7vw;
+    margin-left:27vw;
+}
+.para{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.7vw;
+    line-height: 3.3vw;
+    text-align: center;
+    padding-bottom:1.5vw;
+    color: #14274A;
+    
+}
+@media only screen and (max-width: 1000px) {
+    .backgroundHome{
+        background-size: contain;
+        width: 100vw;
+    }
+
+    .btnScroll{
+        margin-top: 0;
+    }
+   }
+   @media only screen and (max-width: 570px) {
+    .btnScroll{
+        margin-top: 7vw;
+    }
+    .none{
+       display: none;
+    }
+   }
+
+  

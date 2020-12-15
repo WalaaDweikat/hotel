@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@600&display=swap');
+.logo{
+    background-color:  #E0B973;
+    width:13.5vw;
+    height:14.55vw;
+    border-radius: 2.63vw;
+    position: relative;
+    top:-6.7vw;
+}
+.luxury{
+    font-family: 'EB Garamond', serif;
+    position: relative;
+    top: 6vw;
+    text-align: center;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 2.08vw;
+    line-height: 3.6vw;
+    letter-spacing: 0.15em;
+    color: #14274A;  
+}
+.hotels{
+    position: relative;
+    top: 3.24vw;
+    font-family: 'EB Garamond', serif;
+    text-align: center;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 0.9vw;
+    line-height:1.4vw;
+    letter-spacing: 0.27em;
+    color: #14274A;
+}

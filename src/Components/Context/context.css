@@ -1,0 +1,54 @@
+@import url("https://use.typekit.net/rvd5ebs.css");
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+.context{
+   
+    margin-bottom: 3.77vw;
+    display:flex;
+    width:80vw;
+    height: fit-content;
+}
+
+
+.firstCol{
+    padding-top: 1%;
+    padding-left: 5%;
+}
+
+.firstCol p{
+
+    padding-right:35% ;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.5vw;
+    padding-bottom: 10px;
+    color: #14274A;
+    width: fit-content;
+    
+ }
+
+.firstCol h1{
+    width:26.3vw;
+    font-family: 'adobe-garamond-pro', serif;
+    font-weight: 700;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 2.8vw;
+    letter-spacing: 0.02em;
+    color: #14274A;
+}
+@media only screen and (max-width: 1000px) {
+    .secondCol img{
+        width:40vw;
+        height: 40vw;
+        
+    }
+    .firstCol{
+        width:50%
+    }
+   
+}
+
+
+

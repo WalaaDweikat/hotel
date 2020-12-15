@@ -1,0 +1,19 @@
+
+
+.backgroundRooms{
+    background-image: url("../../images/apartment-bed-bedroom-chair-271618\ 1.png");
+    background-size: cover;
+    width: 98.9vw;
+    height: 49.62vw;
+    display: flex;
+    flex-direction: row;
+}
+
+@media only screen and (max-width: 1000px) {
+    .backgroundRooms{
+        background-size: contain;
+        width: 100vw;
+      
+    }
+   }
+

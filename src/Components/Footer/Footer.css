@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+@import url("https://use.typekit.net/rvd5ebs.css");
+
+footer{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    flex-wrap: nowrap;
+    
+    
+}
+.triangle{
+    margin-left: 45.7%;
+    width: 0;
+	height: 0;
+	border-left: 4.52vw solid transparent;
+	border-right: 4.52vw solid transparent;
+	border-bottom: 3.77vw solid  #14274A;
+}
+.details{
+    height: 12.82vw;
+    width:98.9vw;
+    background-color:  #14274A;
+    display: flex;
+    justify-content:space-around;
+    color: white;
+    flex-wrap: nowrap;
+}
+
+.col{
+    margin-top: 3vw;
+    background-color:  #14274A;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+
+.section3{
+    margin-bottom: -0.009px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 0.9vw;
+    color: #F7F7F7; 
+}
+
+.col svg{
+    position: relative;
+    top:0.377vw;
+    right: 1.508vw;
+}
+
+.section1{
+    font-family: adobe-garamond-pro, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 1.508vw;
+    letter-spacing: 0.15em; 
+   
+    margin-bottom: -0.754vw;
+}
+.section1p{
+    font-size:0.678vw;
+    letter-spacing: 0.6em; 
+    font-weight: lighter;
+    padding-left:0.527vw;
+}
+
+.section2{
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 1vw;
+    color: #FFFFFF;
+    
+    
+}
+
+.ok{
+    font-family: 'Montserrat', sans-serif;
+    background:#ddae57;
+    border: #ddae57;
+    color: #14274A;
+    font-size:0.9vw;
+    width: 5w;
+    height:2.6vw;
+    
+}
+.email{
+    font-family: 'Montserrat', sans-serif;
+    border-color: #ddae57;
+    background-color:  #14274A;
+    color: white;
+    padding-left: 0.377vw;;
+    font-size:0.9vw;
+    height:2.234vw;
+    margin-top: 2.03vw;
+}
+
+::placeholder{
+    color:white;
+    
+}
+
+@media only screen and (max-width: 1000px) {
+    .details{
+        width: 100vw;
+      
+    }
+   }
+
+   @media only screen and (min-width: 1390px) {
+    .details{
+        width: 100vw;
+      
+    }
+
+
+   } @media only screen and (max-width: 700px) {
+    .hidden{
+        display: none;
+    }
+    
+   }
